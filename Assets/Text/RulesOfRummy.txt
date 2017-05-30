@@ -1,0 +1,24 @@
+Objective
+----------	
+The main aim of this game is to create sets of cards with 3 or more cards in each set and complete your hand(winning hand) before your opponent.
+
+Sets
+----
+You can create either rummy sets(consecutive numbers of same suit) or same number set apart from a compulsory rummy set.
+Each set must have a minimum of thhree cards in it.
+Rummy Set:Card with consecutive numbers but of same suit.
+(Note:Can contain A,K,Q or A,2,3 but not K,A,2)
+Number Set:Cards of different suit but with same number.
+
+Gameplay
+--------
+During the player's turn, the player can take a card from the Deck or pile to create his sets and must throw away the extra card at the end of his turn.
+This continues with each player taking alternative turns till a player gets a winning hand
+When the deck gets empty the card from pile(except the last one) are reshuffled and put back as the deck.
+
+Winning Hand
+------------
+The winning hand must contain atleast one rummy set and all cards of the hand must be part of only one set where each set contains atleast three cards.
+
+--------BEST OF LUCK---------
+
