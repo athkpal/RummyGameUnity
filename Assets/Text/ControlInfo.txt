@@ -1,0 +1,10 @@
+Control Info
+------------
+
+To select a card from Deck/Pile:Click the Deck/Pile.
+
+To Rearrange cards: Click and drag the the card into the required position.
+
+To throw a card into pile: Click and Drag the  the card into the pile.
+
+To select a button: Click the button.
